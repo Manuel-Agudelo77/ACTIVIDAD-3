@@ -1,4 +1,4 @@
-# <center>**ACTIVIDAD #3: Flujo de Potencia Cuasi Dinámico usando el Método de Punto Fijo**</center>
+# <center>**ACTIVIDAD #3: Flujo de carga cuasi-estático con series de tiempo**</center>
 
 <div style="text-align: justify;">
 En este proyecto implementamos un Flujo de Potencia Cuasi Dinámico en sistemas eléctricos utilizando el Método de Punto Fijo. Su objetivo es determinar el estado del sistema, específicamente las tensiones nodales, considerando la variación temporal de la demanda y la generación. Para ello, se resuelven iterativamente las ecuaciones no lineales del flujo de potencia, permitiendo capturar la evolución dinámica del sistema en un horizonte de tiempo definido. Los resultados obtenidos pueden emplearse en estudios de estabilidad del sistema, planificación operativa y evaluación de contingencias, proporcionando una herramienta eficiente para el análisis de redes eléctricas con alta variabilidad en sus condiciones operativas.
